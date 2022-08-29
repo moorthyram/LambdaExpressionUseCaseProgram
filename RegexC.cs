@@ -10,7 +10,7 @@ namespace LambdaExpressionUseCaseProgram
     {
         public static void RegexPattern()
         {
-            String FirstName;
+            String FirstName, LastName;
 
             Regex nameregex = new Regex("^([A-Z]{1}[a-z]{2}([a-z]+)?)$");
 
@@ -27,6 +27,21 @@ namespace LambdaExpressionUseCaseProgram
             else
             {
                 Console.WriteLine("Its Invalid name, Enter first letter capital and enter small letters");
+            }
+
+            Console.WriteLine("Enter the Last Name");
+            var lName = Console.ReadLine();
+
+            Match matchlname = nameregex.Match(lName);
+            if (matchlname.Success)
+            {
+                LastName = lName;
+                Console.WriteLine("Its valid name");
+            }
+
+            else
+            {
+                Console.WriteLine("It is Invalid name, Enter first letter Capital letter");
             }
         }
     }
