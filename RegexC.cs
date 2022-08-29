@@ -10,10 +10,11 @@ namespace LambdaExpressionUseCaseProgram
     {
         public static void RegexPattern()
         {
-            String FirstName, LastName, Email;
+            String FirstName, LastName, Email, PhoneNumber;
 
             Regex nameregex = new Regex("^([A-Z]{1}[a-z]{2}([a-z]+)?)$");
             Regex emailregex = new Regex("^([0-9a-zA-Z])+([.+-][0-9a-zA-Z]+)?@([0-9a-zA-Z])+([.][a-zA-Z]{2,4})([.][a-zA-Z]{2})?$");
+            Regex mobileregex = new Regex("^(0|91)?[6-9][0-9]{9}$");
 
 
             Console.WriteLine("Enter the First Name");
@@ -53,6 +54,20 @@ namespace LambdaExpressionUseCaseProgram
             {
                 Email = mail;
                 Console.WriteLine("It is valid Mail");
+            }
+            else
+            {
+                Console.WriteLine("It is Invalid");
+            }
+
+            Console.WriteLine("Enter the Mobile Number");
+            var number = Console.ReadLine();
+
+            Match matchmobile = mobileregex.Match(number);
+            if (matchmobile.Success)
+            {
+                PhoneNumber = number;
+                Console.WriteLine("It is valid Mobile Number");
             }
             else
             {
