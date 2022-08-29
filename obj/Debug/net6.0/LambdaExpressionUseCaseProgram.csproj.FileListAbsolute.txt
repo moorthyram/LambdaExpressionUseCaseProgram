@@ -1,0 +1,15 @@
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\obj\Debug\net6.0\LambdaExpressionUseCaseProgram.csproj.AssemblyReference.cache
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\obj\Debug\net6.0\LambdaExpressionUseCaseProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\obj\Debug\net6.0\LambdaExpressionUseCaseProgram.AssemblyInfoInputs.cache
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\obj\Debug\net6.0\LambdaExpressionUseCaseProgram.AssemblyInfo.cs
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\obj\Debug\net6.0\LambdaExpressionUseCaseProgram.csproj.CoreCompileInputs.cache
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\bin\Debug\net6.0\LambdaExpressionUseCaseProgram.exe
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\bin\Debug\net6.0\LambdaExpressionUseCaseProgram.deps.json
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\bin\Debug\net6.0\LambdaExpressionUseCaseProgram.runtimeconfig.json
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\bin\Debug\net6.0\LambdaExpressionUseCaseProgram.dll
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\bin\Debug\net6.0\LambdaExpressionUseCaseProgram.pdb
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\obj\Debug\net6.0\LambdaExpressionUseCaseProgram.dll
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\obj\Debug\net6.0\refint\LambdaExpressionUseCaseProgram.dll
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\obj\Debug\net6.0\LambdaExpressionUseCaseProgram.pdb
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\obj\Debug\net6.0\LambdaExpressionUseCaseProgram.genruntimeconfig.cache
+C:\Moorthy\ASP.NET\LambdaExpressionUseCaseProgram\obj\Debug\net6.0\ref\LambdaExpressionUseCaseProgram.dll
