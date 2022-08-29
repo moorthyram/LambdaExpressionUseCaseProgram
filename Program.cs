@@ -9,7 +9,6 @@ namespace LambdaExpressionUseCaseProgram
             RegexC.RegexPattern();
 
 
-
         }
 
     }
